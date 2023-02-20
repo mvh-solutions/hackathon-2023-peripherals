@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StudyBibleAdditions>
+  <UsfmModify>
+    <Guid>3eacdb26-a798-4e9a-9c9d-b9ed3a5a2e5a</Guid>
+    <UsfmContent>\is1 Who wrote Titus?
+\ili1 The apostle Paul wrote this book (1:1)
+\ili1 It’s thought that he wrote it around the year AD 63.
+\is1 Who was this letter written to?
+\ili1 To Titus while he was working and serving in the churches in Crete (1:4).
+\is1 Why did Paul write Titus?
+\ili1 To teach Titus how to lead the churches in Crete
+\ili1 To give clear instructions about choosing church leaders and what they should be like.
+\is1 Main ideas
+\ili1 How the good news about Jesus changes people’s lives and the way they act
+\ili1 Organising the churches in Crete
+\ili1 Dealing with people who teach things that aren’t true (1:10–16)
+\ili1 Godly living and doing good.
+\iot Outline
+\io1 Greetings (1:1–4)
+\io1 Church leaders in Crete (1:5–9)
+\io1 The problem of false teachers (1:10–16)
+\io1 Families in Crete (chapter 2)
+\io1 God’s kindness and doing good to others (3:1–11)
+\io1 Final greetings (3:12–15).
+\ie </UsfmContent>
+    <Attachment>
+      <Type>Paragraph</Type>
+      <VerseRef>TIT 1:0</VerseRef>
+      <VerseUsfmAtCreation>\id TIT - New International Readers Version 2014 (Anglicised) \rem Copyright © 1995, 1996, 1998, 2014 by Biblica, Inc. \h Titus \toc1 Titus \toc2 Titus \toc3 Tit \mt1 Titus \imt Introduction \im The church on the island of Crete was in trouble. Some false leaders there were hurting the community of believers. Paul had to give authority to Titus who was one of his important helpers. With that authority Titus could represent Paul in Crete. \ip This letter from Paul is addressed to Titus. But it is meant for the whole church on Crete. Paul gives his own authority to Titus so that he could teach and lead. Paul instructs Titus to appoint godly leaders. Paul describes the false teachings found in the church in Crete. The leaders are misusing Jewish laws. They told the people not to eat certain foods. They told the people they needed to be circumcised. And they taught ideas that made people argue. None of these teachings helped the people live lives that were pleasing to God. Paul tells the community of believers that the grace of God has come into the world. It is for all people. Through faith in Jesus the Messiah, people can live a new kind of life. \ip Then Paul tells of his plan to spend the winter in Nicopolis. It is a city on the west coast of Macedonia. From Nicopolis Paul could bring the good news to the western part of the Roman Empire. Paul trusts that Titus will help bring order to the church in Crete. Then Titus could go with Paul on this new adventure. \ie \c 1 \p </VerseUsfmAtCreation>
+      <BookId>56</BookId>
+      <DuplicatesIndex>0 0 1 0</DuplicatesIndex>
+      <DuplicatesTotal>1 2 2 1</DuplicatesTotal>
+      <UsfmMarker>im ip ip ie</UsfmMarker>
+    </Attachment>
+    <Type>ReplaceParagraph</Type>
+  </UsfmModify>
+  <UsfmModify>
+    <Guid>e6bbf040-10d5-4228-b235-7dce52e1b8f0</Guid>
+    <UsfmContent />
+    <Attachment>
+      <Type>Paragraph</Type>
+      <VerseRef>TIT 1:4</VerseRef>
+      <VerseUsfmAtCreation>\v 4 Titus, I am sending you this letter. You are my true son in the faith we share. \b \p May God the Father and Christ Jesus our Saviour give you grace and peace. \b \s1 Choosing elders who love what is good \p </VerseUsfmAtCreation>
+      <BookId>56</BookId>
+      <DuplicatesIndex>0</DuplicatesIndex>
+      <DuplicatesTotal>1</DuplicatesTotal>
+      <UsfmMarker>s1</UsfmMarker>
+    </Attachment>
+    <Type>HideParagraph</Type>
+  </UsfmModify>
+  <UsfmModify>
+    <Guid>0d6d6fa5-c49c-4488-b94b-f5cc9cce1e11</Guid>
+    <UsfmContent />
+    <Attachment>
+      <Type>Paragraph</Type>
+      <VerseRef>TIT 1:9</VerseRef>
+      <VerseUsfmAtCreation>\v 9 The message as it has been taught can be trusted. He must hold firmly to it. Then he will be able to use true teaching to comfort others and build them up. He will be able to prove that people who oppose it are wrong. \s1 Warning people who fail to do good \p </VerseUsfmAtCreation>
+      <BookId>56</BookId>
+      <DuplicatesIndex>0</DuplicatesIndex>
+      <DuplicatesTotal>1</DuplicatesTotal>
+      <UsfmMarker>s1</UsfmMarker>
+    </Attachment>
+    <Type>HideParagraph</Type>
+  </UsfmModify>
+  <UsfmModify>
+    <Guid>26eb478d-c71c-4444-97a1-713de88313f7</Guid>
+    <UsfmContent>\im \bd 1:1–9\bd* \k Paul\k*\ef - \fr 1:1–9 \fk Paul: \fk*\ft Acts 8:1–8.\ef* greeted \k Titus\k*\ef - \fr 1:1–9 \fk Titus: \fk*\ft 2 Corinthians 7:2–16.\ef* as his \it true son in the faith\it*. The hope and \k faith\k*\ef - \fr 1:1–9 \fk Faith: \fk*\ft Matthew 4:1–11.\ef* that they shared joined them together like family members. They believed that \k Jesus\k*\ef - \fr 1:1–9 \fk Jesus: \fk*\ft Matthew 1:1–17.\ef* \k Christ\k*\ef - \fr 1:1–9 \fk Christ: \fk*\ft Romans 5:12-21.\ef* is God’s Son and is the \k Lord\k*\ef - \fr 1:1–9 \fk Lord: \fk*\ft Matthew 3:1–12.\ef* of everything. As an \k apostle\k*\ef - \fr 1:1–9 \fk Apostle: \fk*\ft Matthew 10:1–15.\ef*, Paul worked to teach people the truth about who Jesus is. Understanding this truth and believing it changes the way people live. Because of it they follow Jesus’ example for living. Paul called this \k godly living\k*\ef - \fr 1:1–9 \fk Godly living: \fk*\ft Matthew 6:1–15.\ef*. It fills them with the hope of living for ever with Jesus. Titus worked together with Paul to help people believe in Jesus. To do this on \k Crete\k*\ef - \fr 1:1–9 \fk Crete: \fk*\ft A large island near Greece in the Mediterranean Sea. Paul travelled to Crete during one of his journeys. He helped start several churches there, and Titus stayed to lead them. Some believers in Crete were Jews but most were Gentiles.\ef*, he needed to appoint faithful leaders in the \k churches\k*\ef - \fr 1:1–9 \fk Church: \fk*\ft Acts 9:1–19.\ef*. Many things are required of people who serve as \k church elders\k*\ef - \fr 1:1–9 \fk Church elders: \fk*\ft Acts 1:12–26.\ef* or leaders. Paul listed ten things that they must do and five things that they mustn’t do. This is like the list Paul wrote about church leaders (1 Timothy 3:1–16). Above all, church leaders must be firmly committed to the truth about Jesus Christ. </UsfmContent>
+    <Attachment>
+      <Type>Paragraph</Type>
+      <VerseRef>TIT 1:9</VerseRef>
+      <VerseUsfmAtCreation>\v 9 The message as it has been taught can be trusted. He must hold firmly to it. Then he will be able to use true teaching to comfort others and build them up. He will be able to prove that people who oppose it are wrong. \s1 Warning people who fail to do good \p </VerseUsfmAtCreation>
+      <BookId>56</BookId>
+      <DuplicatesIndex>0</DuplicatesIndex>
+      <DuplicatesTotal>1</DuplicatesTotal>
+      <UsfmMarker>s1</UsfmMarker>
+    </Attachment>
+    <Type>AddParagraph</Type>
+  </UsfmModify>
+  <UsfmModify>
+    <Guid>cd50280d-b835-4b93-839e-552be05d62ea</Guid>
+    <UsfmContent>\im \bd 1:10–16\bd* Some \k Jewish Christian teachers\k*\ef - \fr 1:10–16 \fk Jewish Christian teachers: \fk*\ft Galatians 1:1–10.\ef* in Crete claimed to know God but didn’t obey him. They taught things that were against the truth about Jesus. They did this in order to take advantage of people and take their money. Paul called this group the \it circumcision group\it*. They taught that Jesus didn’t save \k Gentiles\k*\ef - \fr 1:10–16 \fk Gentiles: \fk*\ft Matthew 15:21–28.\ef* unless they followed \k Jewish laws\k*\ef - \fr 1:10–16 \fk Jewish laws: \fk*\ft Matthew 26:57–68.\ef*. The laws this group cared about most were the ones that separated Jews from Gentiles. They were about males being \k circumcised\k*\ef - \fr 1:10–16 \fk Circumcision: \fk*\ft Acts 15:1–35.\ef* and about things that were considered \k pure\k*\ef - \fr 1:10–16 \fk Pure and impure: \fk*\ft 2 Corinthians 6:11 – 7:1.\ef* or \k clean\k*\ef - \fr 1:10–16 \fk Clean and unclean: \fk*\ft Matthew 15:1–20.\ef*. Their understanding of what was right and wrong was based on human teachings. It wasn’t based on what Jesus taught. Their teachings caused problems for the community of believers and had to be stopped. Nothing they did to their bodies could make them clean or pure (Mark 7:1–23). Paul reminded Titus that Jesus’ followers are already pure and accepted by God. </UsfmContent>
+    <Attachment>
+      <Type>VerseEnd</Type>
+      <VerseRef>TIT 1:16</VerseRef>
+      <VerseUsfmAtCreation>\v 16 They claim to know God. But their actions show they donʼt know him. They are hated by God. They refuse to obey him. They arenʼt fit to do anything good. </VerseUsfmAtCreation>
+      <BookId>56</BookId>
+    </Attachment>
+    <Type>AddParagraph</Type>
+  </UsfmModify>
+  <UsfmModify>
+    <Guid>648a525c-1d8c-4b43-a09a-322c4f3846ee</Guid>
+    <UsfmContent />
+    <Attachment>
+      <Type>Paragraph</Type>
+      <VerseRef>TIT 2:0</VerseRef>
+      <VerseUsfmAtCreation>\c 2 \s1 Doing good because of the good news \p </VerseUsfmAtCreation>
+      <BookId>56</BookId>
+      <DuplicatesIndex>0</DuplicatesIndex>
+      <DuplicatesTotal>1</DuplicatesTotal>
+      <UsfmMarker>s1</UsfmMarker>
+    </Attachment>
+    <Type>HideParagraph</Type>
+  </UsfmModify>
+  <UsfmModify>
+    <Guid>75bd1542-bb1a-4a7a-a1d0-bd339721fa47</Guid>
+    <UsfmContent>\im \bd 2:1–15\bd* Paul showed how each member in the \k body of Christ\k*\ef - \fr 2:1–15 \fk Body of Christ: \fk*\ft Romans 12:1–21.\ef* had important work to do. They were to treat one another in ways that taught unbelievers about God. These ways were very different from what was common in Crete. In Crete it was common to tell lies, be lazy and eat too much (Titus 1:12). The ways believers were to act were based on God’s \k grace\k*\ef - \fr 2:1–15 \fk Grace: \fk*\ft Matthew 20:1‒16.\ef*. All family members should control themselves and treat one another with respect and love. They must be honest, kind and worthy of trust. God’s grace makes people able to say no to what is evil. Jesus set people free from the power of \k sin\k*\ef - \fr 2:1–15 \fk Sin: \fk*\ft Matthew3:1–12.\ef*. Because of this, they can obey him and do what is just. They must obey \k Christ\k*\ef - \fr 2:1–15 \fk Christ: \fk*\ft Romans 5:12‒21.\ef* in their homes, in their work and in all their relationships. They can live \k holy\k*\ef - \fr 2:1–15 \fk Holy: \fk*\ft Matthew 6:1–15.\ef* lives now as they wait in hope for \k Jesus to return\k*\ef - \fr 2:1–15 \fk Jesus’ return: \fk*\ft Romans 13:8–14.\ef*. Titus was to teach, correct and encourage the believers about all these things.</UsfmContent>
+    <Attachment>
+      <Type>VerseEnd</Type>
+      <VerseRef>TIT 2:15</VerseRef>
+      <VerseUsfmAtCreation>\v 15 These are the things you should teach. Encourage people and give them hope. Correct them with full authority. Donʼt let anyone look down on you. </VerseUsfmAtCreation>
+      <BookId>56</BookId>
+    </Attachment>
+    <Type>AddParagraph</Type>
+  </UsfmModify>
+  <UsfmModify>
+    <Guid>c9f48273-9f2d-4fad-bb2e-a743ad669f79</Guid>
+    <UsfmContent />
+    <Attachment>
+      <Type>Paragraph</Type>
+      <VerseRef>TIT 3:0</VerseRef>
+      <VerseUsfmAtCreation>\c 3 \s1 Do what is good because you are saved \p </VerseUsfmAtCreation>
+      <BookId>56</BookId>
+      <DuplicatesIndex>0</DuplicatesIndex>
+      <DuplicatesTotal>1</DuplicatesTotal>
+      <UsfmMarker>s1</UsfmMarker>
+    </Attachment>
+    <Type>HideParagraph</Type>
+  </UsfmModify>
+  <UsfmModify>
+    <Guid>e9f217c5-14a4-4d92-aea4-4e347efdf1de</Guid>
+    <UsfmContent />
+    <Attachment>
+      <Type>Paragraph</Type>
+      <VerseRef>TIT 3:11</VerseRef>
+      <VerseUsfmAtCreation>\v 11 You can be sure that people like this are twisted and sinful. Their own actions judge them. \b \s1 Final words \p </VerseUsfmAtCreation>
+      <BookId>56</BookId>
+      <DuplicatesIndex>0</DuplicatesIndex>
+      <DuplicatesTotal>1</DuplicatesTotal>
+      <UsfmMarker>s1</UsfmMarker>
+    </Attachment>
+    <Type>HideParagraph</Type>
+  </UsfmModify>
+  <UsfmModify>
+    <Guid>1cd87986-4fdb-4d75-b70f-03ec61afe774</Guid>
+    <UsfmContent>\im \bd 3:1–15\bd* Paul talked about being ready and committed to doing good (verses 1, 8 and 14). God doesn’t save people because they do \k good works\k*\ef - \fr 3:1–15 \fk Good works: \fk*\ft Matthew 21:18‒27.\ef*. He saves them because he freely gives his kindness, love and \k mercy\k*\ef - \fr 3:1–15 \fk Mercy: \fk*\ft 2 Corinthians 5:11 – 6:2.\ef*. When people receive God’s kindness, they change. They stop being full of hate and evil. They start being gentle and treating others with kindness and love like God does. This happens when God forgives their sins and the \k Holy Spirit\k*\ef - \fr 3:1–15 \fk Holy Spirit: \fk*\ft Matthew 1:18–25.\ef* gives them new life. Some believers in Crete didn’t want to do good to others. They preferred to fight and argue about things that didn’t matter. They wanted to divide the believers into groups instead of living together as a family. Paul warned Titus to stay away from people like that. One way Titus was to do good was to help believers who were travelling. Paul wanted Titus to make sure that they had what they needed for their trip. This would be an example to the churches in Crete. The believers were to provide for people when they had needs. That way they would be showing God’s kindness and love to everyone.</UsfmContent>
+    <Attachment>
+      <Type>VerseEnd</Type>
+      <VerseRef>TIT 3:15</VerseRef>
+      <VerseUsfmAtCreation>\v 15 Everyone who is with me sends you greetings. \p Greet those who love us in the faith. \b \p May Godʼs grace be with you all. </VerseUsfmAtCreation>
+      <BookId>56</BookId>
+    </Attachment>
+    <Type>AddParagraph</Type>
+  </UsfmModify>
+</StudyBibleAdditions>
